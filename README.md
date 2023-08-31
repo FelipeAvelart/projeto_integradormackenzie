@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Projeto Aplicado 1
+**Grupo:** Turnonver
+**Semestre:** 02-2023
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Organização do repositório
+**_Todo:_** descrvever a estrutura de pastas e o objetivo de cada uma
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Descrição do projeto
+**_Todo:_** incluir objetivos, contexto, participantes
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Membros
+**_Todo:_** nomes e TIAs
