@@ -8,4 +8,5 @@ dependencies:
   - polars=0.19
   - seaborn=0.12
   - matplotlib=3.7.0
+  - openpyxl
   - jupyterlab
