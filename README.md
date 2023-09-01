@@ -16,6 +16,39 @@ O repositório possui duas pastas fundamentais:
 - [Data](./data): em que guardamos os datasets utilizados nas análises
 - [Notebooks](./notebooks): em que guardamos os notebooks Jupyter utilizados.
 
+Para reproduzir localmente, clone o repositório, vá até a pasta em que clonou e:
+
+1. Clone o repositório 👇
+
+```bash
+git clone https://github.com/FelipeAvelart/projeto_integradormackenzie.git
+```
+2. Vá até a pasta do repositório 👇
+
+```bash
+cd projeto_integradormackenzie
+```
+
+3. [Instale o `miniconda`](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+
+4. Instale as dependências do projeto 👇
+
+```bash
+conda env create -f environment.yml
+```
+
+5. Ative o ambiente 👇
+
+```bash
+conda activate proj-turnover
+```
+
+6. Rode o jupyter lab 👇
+
+```bash
+jupyter lab
+```
+
 ## Membros
 
 | Nome  | TIA | Email |
