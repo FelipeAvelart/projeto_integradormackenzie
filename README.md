@@ -1,12 +1,20 @@
-# Projeto Aplicado 1
-**Grupo:** Turnonver
-**Semestre:** 02-2023
+# Projeto Aplicado 1 - Análise de turnover
+## Introdução
+A TIVIT atualmente conta com um quadro de 5 mil colaboradores, atuando em 10 países da América do Sul com 50 unidades. Seus serviços oferecidos são Soluções Digitais, Soluções SAP, Mainframes e Serviços Transacionais, Cloud, Serviços Gerenciados, Sistemas Inteligentes, Cybersecurity, Digital Workplace, Dados e IA, Processos e Informações.
+
+Procurar, contratar e treinar pessoas é um processo caro e demorado, que pode limitar o potencial de crescimento de uma empresa. Propomos usar a Análise Exploratória de Dados (AED) como mecanismo para descobrir potenciais causas da saída voluntária de pessoas e o que fazer para retê-las. Queremos entender, dentre outras coisas:
+- O motivo da saída
+- Para qual empresa estão migrando
+- Quantos colaboradores com certificações importantes estão saindo
+- Quantos colaboradores deixam a empresa ainda no período de experiência
+
+Ao longo do semestre iremos tratar (data cleaning), analisar e apresentar nossas descobertas com o auxílio de bibliotecas de AED na linguagem Python, em Jupyter notebooks presentes armazenados na pasta [notebooks](./notebooks).
 
 ## Organização do repositório
-**_Todo:_** descrvever a estrutura de pastas e o objetivo de cada uma
+O repositório possui duas pastas fundamentais:
 
-## Descrição do projeto
-**_Todo:_** incluir objetivos, contexto, participantes
+- [Data](./data): em que guardamos os datasets utilizados nas análises
+- [Notebooks](./notebooks): em que guardamos os notebooks Jupyter utilizados.
 
 ## Membros
 
